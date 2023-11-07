@@ -46,7 +46,6 @@ ARCH_I386="i386"
 ARCH_ARM="arm"
 
 RECOMMENDED_PACKAGES=(
-	node@18
 	git
 	jq
 	helm
@@ -56,7 +55,6 @@ RECOMMENDED_PACKAGES=(
 
 RECOMMENDED_CASKS=(
   docker
-  adoptopenjdk
   intellij-idea
   slack
   postman
